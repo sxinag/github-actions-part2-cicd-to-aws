@@ -6,8 +6,7 @@
 #
 # Made by Denis Astahov ADV-IT Copyleft (c) 2019
 #---------------------------------------------------------------------
-
-Name : CI_CD-PIPELINE-TO-AWS-ELASTICBEANSTALK
+name : "CI_CD-PIPELINE-TO-AWS-ELASTICBEANSTALK"
 env:
   EB_PACKAGE_S3_BUCKET  : "github-actions-tst"
   EB_APPLICATION_NAME   : "MyFlask"
